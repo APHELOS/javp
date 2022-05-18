@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    padding:15px;
+    background-color:#9032bb;
+}
+
+div {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.titulo {
+    background-color:rgba(0, 0, 0, .7);
+    padding:15px;
+}
+
+h1, h3 {
+    font-family:Arial;
+    color: orange;
+}
+h1 {
+    text-align:center;
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
